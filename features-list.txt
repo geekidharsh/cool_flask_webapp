@@ -1,0 +1,8 @@
+create a login page front end
+sign up / sign in option on front
+
+create account support with landing page.
+user is able to login 
+user is able to logout
+
+database to save users for next time login
